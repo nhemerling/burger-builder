@@ -20,6 +20,7 @@ class OrderSummary extends Component {
         );
       }
     );
+
     return (
       <Aux>
         <h3>Your Oder</h3>
